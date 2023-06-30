@@ -1,3 +1,6 @@
-Cedula: 1004756499, Nombre: Maria Camila, Apellido: Agudelo
-Cedula: 1000, Nombre: Maria Camila, Apellido: Agudelo
-Cedula: 425, Nombre: Juan, Apellido: Cadavid
+Cedula: 1004756499, Nombre: Maria, Apellido: Agudelo
+
+
+
+Cedula: 425, Nombre: Sofia, Apellido: Alzate
+Cedula: 52687, Nombre: Juan, Apellido: Hernandez
